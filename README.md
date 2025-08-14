@@ -31,4 +31,4 @@ A simple Python script that lists all available Wi-Fi networks around you on **A
 ## Usage
 Run the script with:
 ```bash
-python wifi_connect.py
+python wifi.py
